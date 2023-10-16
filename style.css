@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    margin:0;
+}
+.home{
+  flex-direction: column;
+  margin-top: 0.5em;
+  width: 111;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+}
+.contactusicon{
+    flex-direction: column;
+    margin-top: 0.5em;
+}
+.contactus{
+    display: flex;
+    justify-content: center;
+}
+.dashboard{
+    flex-direction: column;
+  margin-top: 0.5em;
+}
+.dashboard1{
+    display: flex;
+    justify-content: center;
+}
+.carousel{
+  background-color:#7EB2DD;
+}
+.image{
+    padding-left: 40%;
+}
